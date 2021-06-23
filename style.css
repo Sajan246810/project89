@@ -1,0 +1,10 @@
+#body_1{
+    background-image: url("math.jpg");
+    background-size: cover;
+};
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+};
+
